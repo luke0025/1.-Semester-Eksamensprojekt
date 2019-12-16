@@ -1,0 +1,24 @@
+body { 
+    background: url(landscape.jpg) no-repeat center center fixed; 
+    width: 100%;
+    height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.mascot {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+
+.headline {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   width: 80%;
+   height: auto;
+padding-top: 10%;
+}

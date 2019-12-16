@@ -1,0 +1,12 @@
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
+ <title/>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title fill="#ffffff" stroke="#ffffff">Layer 1</title>
+  <path fill="#ffffff" stroke="#ffffff" id="Rectangle 204 copy" d="m0,4l6.75,0l-2.5,2l-2.25,0l0,7l10,0l0,-2l2,-1.6l0,5.6l-14,0l0,-11zm16,2l-5,4l0,-1.99171c-3.33261,-0.12029 -5.33893,1.36462 -7.03314,3.01478c0,-3.92232 3.4936,-7.01173 7.03314,-7.04628l0,-1.97679l5,4zm0,0"/>
+ </g>
+</svg>
