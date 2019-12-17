@@ -1,0 +1,48 @@
+
+body  {
+    background-image: url("billeder/transportbaggrund.jpg");
+    background-repeat: no-repeat; 
+    background-size: 63%;
+
+   }
+
+header{
+    display: flex;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.hjem {
+padding-left: 310px;
+}
+
+.billeder{
+    display: grid;
+    grid-template-columns: 77px 77px 77px 77px 77px 77px 77px 77px 77px 77px;
+    grid-template-rows: 50px 50px 50px 50px 40px 30px 50px 20px 10px 50px 50px 50px;
+}
+
+.bil {
+
+    grid-column: 2;   
+    grid-row: 11;
+}
+
+.baad {
+    grid-column: 5;   
+    grid-row: 6;
+}
+
+.fly {
+    grid-column: 2;   
+    grid-row: 1;
+}
+
+.traktor {
+    grid-column: 1;   
+    grid-row: 5;
+}
+.tog {
+    grid-column: 6;   
+    grid-row: 9;
+}
