@@ -1,6 +1,6 @@
 
 body  {
-    background-image: url("baggrund.jpg");
+    background-image: url("billeder/baggrund.jpg");
     background-repeat: no-repeat; 
     background-size: 100%;
 
@@ -12,8 +12,6 @@ header{
     padding-left: 2%;
     padding-right: 2%;
 }
-
-
 
 .billeder{
     display: grid;
