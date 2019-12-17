@@ -28,15 +28,17 @@ padding-top: 10%;
 
 /* parents-menu.html */
 
-
-.hello-mom-and-dad {
-
+.home {
+  position: absolute;
+  right: 10px;
+  top: 10px;
 }
 
 #hello-mom-and-dad {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 200px;
   padding-top: 4%;
   border-radius: 180px;
   background: #FFFFFF url(parents-menu/foraeldre.png); 
@@ -51,21 +53,80 @@ padding-top: 10%;
   font-weight: bold; 
 }
 
-#redbutton {
+#redbutton1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border-radius: 15px;
+    border-radius: 15px;
   background: #EC1C24 url(parents-menu/redbutton1.png);
   background-repeat: no-repeat;
   background-position: left;
-  padding-left: 10%;
-  padding: 20px; 
   width: 384px;
   height: 87px;  
   font-family: "Open Sans", Tahoma, Arial, sans-serif;
   color: white;
-  text-align: center;
+  text-align: left;
   font-size: 2em;
   font-weight: bold;
-}
+  line-height: 87px;
+  text-indent: 96px;
+  }
+
+
+  #redbutton2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    background: #EC1C24 url(parents-menu/redbutton2.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    width: 384px;
+    height: 87px;  
+    font-family: "Open Sans", Tahoma, Arial, sans-serif;
+    color: white;
+    text-align: left;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 87px;
+    text-indent: 96px;
+    }
+
+    #redbutton3 {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      border-radius: 15px;
+      background: #EC1C24 url(parents-menu/redbutton3.png);
+      background-repeat: no-repeat;
+      background-position: left;
+      width: 384px;
+      height: 87px;  
+      font-family: "Open Sans", Tahoma, Arial, sans-serif;
+      color: white;
+      text-align: left;
+      font-size: 2em;
+      font-weight: bold;
+      line-height: 87px;
+      text-indent: 96px;
+      }
+
+      #redbutton4 {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 15px;
+        background: #EC1C24 url(parents-menu/redbutton4.png);
+        background-repeat: no-repeat;
+        background-position: left;
+        width: 384px;
+        height: 87px;  
+        font-family: "Open Sans", Tahoma, Arial, sans-serif;
+        color: white;
+        text-align: left;
+        font-size: 2em;
+        font-weight: bold;
+        line-height: 87px;
+        text-indent: 96px;
+        
+        }
