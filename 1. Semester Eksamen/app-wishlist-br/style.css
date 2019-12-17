@@ -1,0 +1,71 @@
+body { 
+    background: url(landscape.jpg) no-repeat center center fixed; 
+    width: 100%;
+    height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+/* index.html */
+
+.mascot {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+
+.headline {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   width: 90%;
+   height: auto;
+padding-top: 10%;
+}
+
+
+/* parents-menu.html */
+
+
+.hello-mom-and-dad {
+
+}
+
+#hello-mom-and-dad {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 4%;
+  border-radius: 180px;
+  background: #FFFFFF url(parents-menu/foraeldre.png); 
+  padding: 20px; 
+  background-repeat: no-repeat;
+  background-position: right; 
+  width: 300px;
+  height: 40px;
+  font-family: "Open Sans", Tahoma, Arial, sans-serif;
+  color: black;
+  font-size: 2em;
+  font-weight: bold; 
+}
+
+#redbutton {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+  background: #EC1C24 url(parents-menu/redbutton1.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  padding-left: 10%;
+  padding: 20px; 
+  width: 384px;
+  height: 87px;  
+  font-family: "Open Sans", Tahoma, Arial, sans-serif;
+  color: white;
+  text-align: center;
+  font-size: 2em;
+  font-weight: bold;
+}
