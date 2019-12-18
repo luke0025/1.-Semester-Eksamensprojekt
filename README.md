@@ -1,3 +1,6 @@
 # 1.-Semester-Eksamensprojekt
 
-Here it is.
+Hej Jarne og Malene!
+
+Glædelig Jul
+Lukas, Sara og Jacob.
