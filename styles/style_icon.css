@@ -7,7 +7,7 @@ bodi {
 }
 
 body {
-    background-image: url("snow.png");
+    background-image: url("pictures/snow.jpg");
     width: 100%;
     height: auto;
     -webkit-background-size: cover;
@@ -28,8 +28,9 @@ section {
 }
 
 .icon {
- max-width: 1000px;
- max-height: 1000px;
+max-width: 1000px;
+ max-height: 1000px; 
+ border-radius: 13px;
 }
 
 .parent {
