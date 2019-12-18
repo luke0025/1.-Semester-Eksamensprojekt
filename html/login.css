@@ -1,0 +1,51 @@
+body  {
+    background-image: url(pictures/baggrund.jpg);
+    background-repeat: no-repeat; 
+    background-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   header{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+h1{
+    text-align: center;
+    font-family: 'Segoe UI';
+    font-size: 48px;
+    color: #707070;
+}
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+input,
+.btn {
+  width: 80%;
+  padding: 30px;
+  border: none;
+  border-radius: 4px;
+  margin: 15px 0px;
+  opacity: 0.85;
+  display: inline-block;
+  font-size: 17px;
+  line-height: 25px;
+  text-decoration: none; 
+  text-align: center;
+}
+.fb {
+  background-color: #3B5998;
+  color: white;
+  text-align: center;
+}
+.google {
+  background-color: #DD4B39;
+  color: white;
+  text-align: center;
+}
+input[type=submit] {
+  background-color:#EB1B23;
+  color: white;
+  cursor: pointer;
+}
