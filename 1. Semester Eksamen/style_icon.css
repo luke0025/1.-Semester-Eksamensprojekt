@@ -1,0 +1,38 @@
+bodi {
+    display: grid;
+
+    background-repeat: no-repeat;
+    background-size: auto;
+    grid-template-columns: 0.2fr 0.2fr 0.2fr;
+}
+
+body {
+    background-image: url("snow.png");
+    width: 100%;
+    height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+section {
+    display: grid;
+    grid-template-columns: repeat(3, 0.2fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-column-gap: 30px;
+    grid-row-gap: 30px;
+    margin-top: 150px;
+    margin-left: 10.5%;
+}
+
+.icon {
+ max-width: 1000px;
+ max-height: 1000px;
+}
+
+.parent {
+ max-width: 100px;
+ margin-left: 80%;
+}
