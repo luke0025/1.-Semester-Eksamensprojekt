@@ -1,0 +1,139 @@
+body { 
+    background: url(html/pictures/landscape.jpg) no-repeat center center fixed; 
+    width: 100%;
+    height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  a:link {
+    text-decoration: none;
+  }
+
+
+/* index.html */
+
+.mascot {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+
+.headline {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   width: 90%;
+   height: auto;
+padding-top: 10%;
+}
+
+
+/* parents-menu.html */
+
+.home {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+#hello-mom-and-dad {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 200px;
+  padding-top: 4%;
+  border-radius: 180px;
+  background: #FFFFFF url(parents-menu/foraeldre.png); 
+  padding: 20px; 
+  background-repeat: no-repeat;
+  background-position: right; 
+  width: 300px;
+  height: 40px;
+  font-family: "Open Sans", Tahoma, Arial, sans-serif;
+  color: black;
+  font-size: 2em;
+  font-weight: bold; 
+}
+
+#redbutton1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+    border-radius: 15px;
+  background: #EC1C24 url(parents-menu/redbutton1.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  width: 384px;
+  height: 87px;  
+  font-family: "Open Sans", Tahoma, Arial, sans-serif;
+  color: white;
+  text-align: left;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 87px;
+  text-indent: 96px;
+  }
+
+
+  #redbutton2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    background: #EC1C24 url(parents-menu/redbutton2.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    width: 384px;
+    height: 87px;  
+    font-family: "Open Sans", Tahoma, Arial, sans-serif;
+    color: white;
+    text-align: left;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 87px;
+    text-indent: 96px;
+    
+    }
+
+    #redbutton3 {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      border-radius: 15px;
+      background: #EC1C24 url(parents-menu/redbutton3.png);
+      background-repeat: no-repeat;
+      background-position: left;
+      width: 384px;
+      height: 87px;  
+      font-family: "Open Sans", Tahoma, Arial, sans-serif;
+      color: white;
+      text-align: left;
+      font-size: 2em;
+      font-weight: bold;
+      line-height: 87px;
+      text-indent: 96px;
+      
+      }
+
+      #redbutton4 {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 15px;
+        background: #EC1C24 url(parents-menu/redbutton4.png);
+        background-repeat: no-repeat;
+        background-position: left;
+        width: 384px;
+        height: 87px;  
+        font-family: "Open Sans", Tahoma, Arial, sans-serif;
+        color: white;
+        text-align: left;
+        font-size: 2em;
+        font-weight: bold;
+        line-height: 87px;
+        text-indent: 96px;
+        
+        }

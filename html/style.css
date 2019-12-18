@@ -1,11 +1,15 @@
 body { 
-    background: url(//pictures/landscape.jpg) no-repeat center center fixed; 
+    background: url(pictures/landscape.jpg) no-repeat center center fixed; 
     width: 100%;
     height: auto;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+  }
+
+  a:link {
+    text-decoration: none;
   }
 
 /* index.html */
@@ -41,7 +45,7 @@ padding-top: 10%;
   margin-bottom: 200px;
   padding-top: 4%;
   border-radius: 180px;
-  background: #FFFFFF url(parents-menu/foraeldre.png); 
+  background: #FFFFFF url(pictures/foraeldre.png); 
   padding: 20px; 
   background-repeat: no-repeat;
   background-position: right; 
@@ -58,7 +62,7 @@ padding-top: 10%;
   margin-left: auto;
   margin-right: auto;
     border-radius: 15px;
-  background: #EC1C24 url(parents-menu/redbutton1.png);
+  background: #EC1C24 url(pictures/redbutton1.png);
   background-repeat: no-repeat;
   background-position: left;
   width: 384px;
@@ -78,7 +82,7 @@ padding-top: 10%;
     margin-left: auto;
     margin-right: auto;
     border-radius: 15px;
-    background: #EC1C24 url(parents-menu/redbutton2.png);
+    background: #EC1C24 url(pictures/redbutton2.png);
     background-repeat: no-repeat;
     background-position: left;
     width: 384px;
@@ -97,7 +101,7 @@ padding-top: 10%;
       margin-left: auto;
       margin-right: auto;
       border-radius: 15px;
-      background: #EC1C24 url(parents-menu/redbutton3.png);
+      background: #EC1C24 url(pictures/redbutton3.png);
       background-repeat: no-repeat;
       background-position: left;
       width: 384px;
@@ -109,6 +113,7 @@ padding-top: 10%;
       font-weight: bold;
       line-height: 87px;
       text-indent: 96px;
+      
       }
 
       #redbutton4 {
@@ -116,7 +121,7 @@ padding-top: 10%;
         margin-left: auto;
         margin-right: auto;
         border-radius: 15px;
-        background: #EC1C24 url(parents-menu/redbutton4.png);
+        background: #EC1C24 url(pictures/redbutton4.png);
         background-repeat: no-repeat;
         background-position: left;
         width: 384px;
