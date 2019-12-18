@@ -1,0 +1,15 @@
+.app-ikoner {
+display: grid;
+width: 320px;
+grid-template-columns: repeat(2, 1fr);
+grid-template-rows: repeat(5, 1fr);
+grid-column-gap: 20px;
+grid-row-gap: 10px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+} 
+
+#ikon-id {
+    border-radius: 15px 15px 15px 15px;
+  }
