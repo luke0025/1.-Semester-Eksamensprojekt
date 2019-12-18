@@ -1,0 +1,42 @@
+
+body  {
+    background-image: url("billeder/baggrund.jpg");
+    background-repeat: no-repeat; 
+    background-size: 100%;
+
+   }
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.billeder{
+    display: grid;
+    
+    grid-template-columns: 77px 77px 77px 77px 77px 77px 77px 77px 77px 77px;
+    grid-template-rows: 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px;
+}
+
+.bamse {
+
+    grid-column: 1;   
+    grid-row: 7;
+}
+
+.dukke {
+    grid-column: 4;   
+    grid-row: 6;
+}
+
+.vogn {
+    grid-column: 7;   
+    grid-row: 5;
+}
+
+.dino {
+    grid-column: 1;   
+    grid-row: 3;
+}

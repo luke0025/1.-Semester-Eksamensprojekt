@@ -1,0 +1,14 @@
+
+body  {
+    background-image: url("billeder/oenskestat.png");
+    background-repeat: no-repeat; 
+    background-size: 100%;
+
+   }
+
+   header{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2%;
+    padding-right: 2%;
+}
